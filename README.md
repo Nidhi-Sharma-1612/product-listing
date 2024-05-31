@@ -31,7 +31,3 @@ You can also access deployed app from the following link:
 ```bash
 https://product-listing-app-pi.vercel.app/
 ```
-
-```
-
-```
